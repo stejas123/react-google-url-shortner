@@ -1,0 +1,24 @@
+{
+  "name": "react-google-url-shortner",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "promise": "^7.1.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "scriptjs": "^2.5.8"
+  },
+  "devDependencies": {
+    "babel-jest": "^20.0.3",
+    "enzyme": "^2.8.2",
+    "jest": "^20.0.4",
+    "react-addons-test-utils": "^15.6.0"
+  },
+  "scripts": {
+    "build": "react-scripts build",
+    "test": "jest",
+    "test:watch": "npm test -- --watch",
+    "eject": "react-scripts eject"
+  }
+}
