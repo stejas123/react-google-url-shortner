@@ -25,4 +25,4 @@ class Foo extends Component {
     }
 }
 ```
-## Author : stejas123
+#### Author : stejas123
