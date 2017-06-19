@@ -1,7 +1,7 @@
 {
   "name": "react-google-url-shortner",
   "version": "1.0.0",
-  "private": true,
+  "public": true,
   "dependencies": {
     "enzyme": "^2.8.2",
     "promise": "^7.1.1",
@@ -18,5 +18,23 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This package includes google url shortner",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stejas123/react-google-url-shortner.git"
+  },
+  "keywords": [
+    "urlshortner"
+  ],
+  "author": "stejas123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stejas123/react-google-url-shortner/issues"
+  },
+  "homepage": "https://github.com/stejas123/react-google-url-shortner#readme"
 }
